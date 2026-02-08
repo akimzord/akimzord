@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Ragnarok Analytics](https://ragnarokanalytics.com/)
 
+- Backend development and MySQL database integration for the [project](https://brainrothubx.squareweb.app/)
+
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akimzord?tab=repositories](https://github.com/akimzord?tab=repositories)
